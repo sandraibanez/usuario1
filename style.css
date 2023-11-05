@@ -61,18 +61,41 @@ header {
 }
 .home{
 	height: 60px;
+	width: 200px;
+	transform: translate(-124px, -35px);
+}
+.titulo_home{
+	transform: translate(-370px, 10px);
 	width: 150px;
 	transform: translate(-124px, -35px);
 }
 .titulo_home{
 	transform: translate(-390px, 10px);
 }
-.home4{
+.home4{	
+	height: 60px;
+	width: 200px;
+	transform: translate(-124px, -35px);
+}
+.home2{
 	height: 60px;
 	width: 200px;
 	transform: translate(-124px, -35px);
 }
 .titulo_home4{
+	width: 200px;
+	transform: translate(-450px, 10px);
+}
+.titulo_home2{
+	width: 200px;
+	transform: translate(-450px, 10px);
+}
+.home3{
+	height: 60px;
+	width: 200px;
+	transform: translate(-124px, -35px);
+}
+.titulo_home3{
 	width: 200px;
 	transform: translate(-450px, 10px);
 }
@@ -120,6 +143,8 @@ header {
   .texto-lista {
 	font-size: 16px;
   }
+  
+
   .titulo-lista3 {
 	font-weight: bold;
 	color:#8c86db;
